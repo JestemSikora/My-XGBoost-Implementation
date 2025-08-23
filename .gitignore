@@ -1,0 +1,27 @@
+# wirtualne środowiska
+venv/
+.venv/
+
+# cache Pythona
+__pycache__/
+*.py[cod]
+*.pyo
+
+# jupyter
+.ipynb_checkpoints/
+
+# testy i narzędzia
+.pytest_cache/
+.mypy_cache/
+
+# edytory
+.vscode/
+.idea/
+
+# system Windows
+Thumbs.db
+Desktop.ini
+
+# logi i pliki tymczasowe
+*.log
+*.tmp
